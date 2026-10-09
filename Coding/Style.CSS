@@ -1,12 +1,52 @@
-.card {
-    display: block;
+.course-card {
 
-    width: 200px;
-    height: 150px;
-
-    padding: 15px;
-    border: 2px solid black;
-    margin: 10px;
+    width: 250px;
+    height: 210px;
     
-    Overflow: auto
+    background-color: brown;
+    padding: 30px;
+    border: 2px solid black;
+    margin: 30px;
+    text-align: center;
+}
+
+h1 {
+
+    color: aqua;
+    font-size: 25px;
+    font-weight: lighter;
+}    
+
+.course-desc {
+
+    font-size: 20px;
+    color: blue;
+}
+
+.course-info {
+
+    font-weight: bold;
+}
+
+#register-button {
+
+    background-color: gray;
+    color: black;
+    font-size: 30px;
+    padding: 20px;
+    border: 10px;
+}
+
+h2 {
+
+    color: red;
+}
+
+.mini-card {
+    
+    width: 200px;
+    background-color: blueviolet;
+    padding: 20px;
+    border: 2px solid black;
+    margin: 20px;
 }
